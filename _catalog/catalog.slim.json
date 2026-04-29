@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "slug": "01-cupula-retiro",
+    "name": "CÚPULA - Retiro",
+    "tipo": "DEPTOS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/1.Depto - cúpula retiro.jpg",
+    "images_count": 12,
+    "has_only_cover": false
+  },
+  {
+    "id": 2,
+    "slug": "02-lobos-casa-de-campo-en-lobos",
+    "name": "Lobos - Casa de Campo en Lobos",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/2.Casa de campo - Lobos.png",
+    "images_count": 61,
+    "has_only_cover": false
+  },
+  {
+    "id": 3,
+    "slug": "03-vicente-casares-campo",
+    "name": "Vicente Casares - Campo",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/3.Vicente Casares - Campo.jpg",
+    "images_count": 23,
+    "has_only_cover": false
+  },
+  {
+    "id": 4,
+    "slug": "04-recoleta-espacio-multifuncional-caba",
+    "name": "Recoleta espacio multifuncional - CABA",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/4.Espacio multifuncional - CABA.png",
+    "images_count": 11,
+    "has_only_cover": false
+  },
+  {
+    "id": 5,
+    "slug": "05-almagro-ph-caba",
+    "name": "Almagro (PH) - CABA",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/5.Almagro PH.jpg",
+    "images_count": 19,
+    "has_only_cover": false
+  },
+  {
+    "id": 6,
+    "slug": "06-caseron-antiguo-en-devoto-caba",
+    "name": "Caseron antiguo en Devoto - CABA",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/6.Caseron antiguo en Devoto - CABA.png",
+    "images_count": 50,
+    "has_only_cover": false
+  },
+  {
+    "id": 7,
+    "slug": "07-teatro-en-recoleta",
+    "name": "Teatro en Recoleta",
+    "tipo": "TEATROS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/7.Teatro recoleta.jpg",
+    "images_count": 6,
+    "has_only_cover": false
+  },
+  {
+    "id": 8,
+    "slug": "08-casa-antigua-boedo-caba",
+    "name": "Casa antigua - Boedo CABA",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/8. Casa antigua - Boedo CABA.png",
+    "images_count": 26,
+    "has_only_cover": false
+  },
+  {
+    "id": 9,
+    "slug": "09-casa-la-lucila-cerca-al-rio",
+    "name": "CASA La Lucila - cerca al río",
+    "tipo": "CASAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/9.Casa con pileta cerca del río en La Lucila.png",
+    "images_count": 58,
+    "has_only_cover": false
+  },
+  {
+    "id": 10,
+    "slug": "10-depto-oficina-centro-caba",
+    "name": "Depto-oficina Centro - CABA",
+    "tipo": "DEPTOS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/10.Depto vacío_ consultorio en zona Centro.jpeg",
+    "images_count": 17,
+    "has_only_cover": false
+  },
+  {
+    "id": 12,
+    "slug": "12-restaurant-caba-recoleta",
+    "name": "Restaurant - CABA - Recoleta",
+    "tipo": "RESTAURANT - BAR -  GASTRONOMÍA",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/12.Restaurant - CABA Recoleta.png",
+    "images_count": 40,
+    "has_only_cover": false
+  },
+  {
+    "id": 13,
+    "slug": "13-bar-con-teatro-en-villa-crespo",
+    "name": "BAR con teatro en Villa Crespo",
+    "tipo": "RESTAURANT - BAR -  GASTRONOMÍA",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/13.TEATRO - Villa Crespo.jpg",
+    "images_count": 23,
+    "has_only_cover": false
+  },
+  {
+    "id": 14,
+    "slug": "14-teatro-en-boedo-c-terraza",
+    "name": "Teatro en Boedo c-terraza",
+    "tipo": "TEATROS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/14.Teatro en Boedo c_ terraza.jpg",
+    "images_count": 24,
+    "has_only_cover": false
+  },
+  {
+    "id": 15,
+    "slug": "15-centro-cultural-salon-bar",
+    "name": "Centro cultural- Salón -Bar",
+    "tipo": "RESTAURANT - BAR -  GASTRONOMÍA",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/15.Centro cultural-Salón-Bar-Abasto CABA.jpg",
+    "images_count": 53,
+    "has_only_cover": false
+  },
+  {
+    "id": 16,
+    "slug": "16-casa-bella-vista",
+    "name": "CASA - Bella Vista",
+    "tipo": "CASAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/16.Casa- Bella Vista.jpg",
+    "images_count": 20,
+    "has_only_cover": false
+  },
+  {
+    "id": 17,
+    "slug": "17-casa-barracas-c-jardin-caba",
+    "name": "Casa Barracas c-jardín - CABA",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/17. Casa Barracas con jardín - CABA.jpg",
+    "images_count": 11,
+    "has_only_cover": false
+  },
+  {
+    "id": 18,
+    "slug": "18-resturante-bar-villa-crespo",
+    "name": "Resturante, bar - Villa Crespo",
+    "tipo": "RESTAURANT - BAR -  GASTRONOMÍA",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/18.Resturante, bar - Villa Crespo.jpg",
+    "images_count": 52,
+    "has_only_cover": false
+  },
+  {
+    "id": 19,
+    "slug": "19-bar-centro-cultural-almagro",
+    "name": "Bar, centro cultural - Almagro",
+    "tipo": "RESTAURANT - BAR -  GASTRONOMÍA",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/19.Bar, centro cultural - Almagro.jpg",
+    "images_count": 29,
+    "has_only_cover": false
+  },
+  {
+    "id": 20,
+    "slug": "20-casona-abandonada-en-villa-ortuzar-caba",
+    "name": "Casona abandonada en Villa Ortuzar CABA",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/20.Casona abandonada en Villa Ortuzar CABA_.jpg",
+    "images_count": 26,
+    "has_only_cover": false
+  },
+  {
+    "id": 21,
+    "slug": "21-floreria-en-chacarita-caba",
+    "name": "Floreria en Chacarita- CABA",
+    "tipo": "LOCALES",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/21.Floreria en Chacarita-  CABA.jpg",
+    "images_count": 12,
+    "has_only_cover": false
+  },
+  {
+    "id": 22,
+    "slug": "22-teatro-casa-parque-chacabuco",
+    "name": "Teatro-Casa-Parque Chacabuco",
+    "tipo": "TEATROS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/22.Teatro-Casa-Parque Chacabuco.jpg",
+    "images_count": 19,
+    "has_only_cover": false
+  },
+  {
+    "id": 23,
+    "slug": "23-palacio-en-monserrat-caba",
+    "name": "Palacio en Monserrat - CABA",
+    "tipo": "PALACIOS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/23.Palacio en  Monserrat - CABA.jpg",
+    "images_count": 26,
+    "has_only_cover": false
+  },
+  {
+    "id": 24,
+    "slug": "24-oficinas-amuebladas-san-justo",
+    "name": "-Oficinas amuebladas - San Justo",
+    "tipo": "CONCESIONARIA",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/24 - Consecionaria - SAN JUSTO.jpg",
+    "images_count": 165,
+    "has_only_cover": false
+  },
+  {
+    "id": 25,
+    "slug": "25-fabrica-galpon-caba",
+    "name": "Fábrica - galpón - CABA",
+    "tipo": "ESPACIOS TRASH",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/25 - Fábrica  galpón - CABA.jpg",
+    "images_count": 14,
+    "has_only_cover": false
+  },
+  {
+    "id": 26,
+    "slug": "26-pancheria-retiro-caba",
+    "name": "Panchería Retiro CABA",
+    "tipo": "LOCALES",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/26 -Panchería Retiro CABA.jpg",
+    "images_count": 13,
+    "has_only_cover": false
+  },
+  {
+    "id": 27,
+    "slug": "27-depto-estudio-centro-caba",
+    "name": "Depto-estudio-centro-CABA",
+    "tipo": "DEPTOS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/27 - Depto zona centro.jpg",
+    "images_count": 20,
+    "has_only_cover": false
+  },
+  {
+    "id": 28,
+    "slug": "28-club-deportivo-barrial",
+    "name": "Club deportivo barrial",
+    "tipo": "CLUB",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/28 -  Club deportivo barrial.jpg",
+    "images_count": 17,
+    "has_only_cover": false
+  },
+  {
+    "id": 29,
+    "slug": "29-casa-estudio-con-jardin-belgrano-caba",
+    "name": "Casa estudio con Jardín. Belgrano - CABA",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/29 - Casa estudio con Jardín. Belgrano - CABA.jpg",
+    "images_count": 31,
+    "has_only_cover": false
+  },
+  {
+    "id": 30,
+    "slug": "30-galpon-estudio-caba-pompeya",
+    "name": "Galpón - estudio - CABA Pompeya",
+    "tipo": "GALPONES",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/30 - Galpón - estudio - CABA Pompeya .jpg",
+    "images_count": 62,
+    "has_only_cover": false
+  },
+  {
+    "id": 31,
+    "slug": "31-casa-y-estudio-galpon-caba-almagro",
+    "name": "Casa y estudio + galpón - CABA Almagro",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/31 - Casa y estudio + galpón - CABA Almagro.jpg",
+    "images_count": 73,
+    "has_only_cover": false
+  },
+  {
+    "id": 32,
+    "slug": "32-caseron-de-principios-del-siglo-xx-villa-sarmiento-haedo",
+    "name": "CASERÓN de principios del siglo XX - Villa Sarmiento- Haedo",
+    "tipo": "CASAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/32.Caserón de principios del siglo XX - Villa Sarmiento- Haedo.jpg",
+    "images_count": 35,
+    "has_only_cover": false
+  },
+  {
+    "id": 33,
+    "slug": "33-parque-de-diversiones-lujan",
+    "name": "Parque de diversiones- Luján",
+    "tipo": null,
+    "region": null,
+    "cover": "MENU DE LOCACIONES /todas/33.Parque de diversiones- Luján.png",
+    "images_count": 1,
+    "has_only_cover": true
+  },
+  {
+    "id": 34,
+    "slug": "34-ph-en-parque-chas",
+    "name": "Ph en Parque Chas",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/34 - Ph en Parque Chas..jpg",
+    "images_count": 19,
+    "has_only_cover": false
+  },
+  {
+    "id": 35,
+    "slug": "35-departamento-en-almagro-caba",
+    "name": "Departamento en Almagro - CABA",
+    "tipo": "DEPTOS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/35 - Departamento en Almagro -  CABA.jpg",
+    "images_count": 26,
+    "has_only_cover": false
+  },
+  {
+    "id": 36,
+    "slug": "36-ph-en-chacarita",
+    "name": "PH en Chacarita",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/36 - PH en Chacarita.jpg",
+    "images_count": 10,
+    "has_only_cover": false
+  },
+  {
+    "id": 37,
+    "slug": "37-bar-cafe-parque-chacabuco-caba",
+    "name": "Bar-café- Parque Chacabuco- CABA",
+    "tipo": "RESTAURANT - BAR -  GASTRONOMÍA",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/37. BAR - CAFÉ. Parque Chacabuco CABA_.jpg",
+    "images_count": 7,
+    "has_only_cover": false
+  },
+  {
+    "id": 38,
+    "slug": "38-cabanas-mercedes",
+    "name": "Cabañas - Mercedes",
+    "tipo": "CABAÑAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/38.Cabañas - Mercedes.jpg",
+    "images_count": 18,
+    "has_only_cover": false
+  },
+  {
+    "id": 39,
+    "slug": "39-biblioteca-popular-lujan",
+    "name": "Biblioteca popular- Luján",
+    "tipo": "BIBLIOTECAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/39.Biblioteca popular- Luján.png",
+    "images_count": 19,
+    "has_only_cover": false
+  },
+  {
+    "id": 40,
+    "slug": "40-restaurante-almacen-s-a-de-giles",
+    "name": "Restaurante- Almacen- S.A de Giles",
+    "tipo": "ALMACENES",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/40. Restaurante- Almacen- S.A de Giles.jpg",
+    "images_count": 14,
+    "has_only_cover": false
+  },
+  {
+    "id": 41,
+    "slug": "41-estancia-campo-lujan",
+    "name": "Estancia Campo-Luján",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/41.Estancia Campo-Luján.png",
+    "images_count": 23,
+    "has_only_cover": false
+  },
+  {
+    "id": 42,
+    "slug": "42-biblioteca-centro-lujan",
+    "name": "Biblioteca- Centro Luján",
+    "tipo": "BIBLIOTECAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/42.Biblioteca- Centro Luján.png",
+    "images_count": 27,
+    "has_only_cover": false
+  },
+  {
+    "id": 43,
+    "slug": "43-estacion-de-servicio-antigua-abandonada-lujan",
+    "name": "Estación de servicio antigua,abandonada- Luján",
+    "tipo": "ESTACIONES DE SERVICIO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/43.Estación de servicio antigua,abandonada- Luján.png",
+    "images_count": 14,
+    "has_only_cover": false
+  },
+  {
+    "id": 44,
+    "slug": "44-teatro-salon-antiguo-lujan",
+    "name": "Teatro+salón antiguo-Luján",
+    "tipo": "TEATROS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/44.Teatro+salón antiguo-Luján.png",
+    "images_count": 17,
+    "has_only_cover": false
+  },
+  {
+    "id": 45,
+    "slug": "45-spa-estetica-lujan",
+    "name": "Spa-Estética-Luján",
+    "tipo": "ESTÉTICA",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/45.Spa-Estética-Luján.png",
+    "images_count": 21,
+    "has_only_cover": false
+  },
+  {
+    "id": 47,
+    "slug": "47-campo-julio-mercedes",
+    "name": "Campo Julio-Mercedes",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/47.Campo Julio-Mercedes.jpg",
+    "images_count": 25,
+    "has_only_cover": false
+  },
+  {
+    "id": 48,
+    "slug": "48-casa-quinta-rural-s-a-de-giles",
+    "name": "Casa quinta rural-S.A de Giles",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/48.Casa quinta rural-S.A de Giles.jpg",
+    "images_count": 17,
+    "has_only_cover": false
+  },
+  {
+    "id": 49,
+    "slug": "49-campo-la-canadita-lujan",
+    "name": "Campo La Cañadita-Luján",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/49.Campo La Cañadita-Luján.png",
+    "images_count": 22,
+    "has_only_cover": false
+  },
+  {
+    "id": 50,
+    "slug": "50-casa-quinta-chivilcoy",
+    "name": "Casa quinta- Chivilcoy",
+    "tipo": "CASAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/50.Casa quinta- Chivilcoy.jpg",
+    "images_count": 26,
+    "has_only_cover": false
+  },
+  {
+    "id": 51,
+    "slug": "51-club-social-y-deportivo-bulogne",
+    "name": "Club social y deportivo-Bulogne",
+    "tipo": "CLUBS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/51.Club social y deportivo-Bulogne..jpg",
+    "images_count": 25,
+    "has_only_cover": false
+  },
+  {
+    "id": 52,
+    "slug": "52-club-social-centenario-mercedes",
+    "name": "Club social centenario-Mercedes",
+    "tipo": "CLUBS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/52.Club social centenario-Mercedes.png",
+    "images_count": 12,
+    "has_only_cover": false
+  },
+  {
+    "id": 53,
+    "slug": "53-estancia-campo-1800-1900",
+    "name": "Estancia-Campo 1800-1900",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/53.Estancia-Campo 1800-1900..jpg",
+    "images_count": 35,
+    "has_only_cover": false
+  },
+  {
+    "id": 54,
+    "slug": "54-hospital-abandonado-lujan",
+    "name": "Hospital abandonado-Luján",
+    "tipo": "HOSPITAL",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/54.Hospital abandonado-Luján.png",
+    "images_count": 21,
+    "has_only_cover": false
+  },
+  {
+    "id": 55,
+    "slug": "55-complejo-cabanas-mercedes",
+    "name": "Complejo cabañas-Mercedes",
+    "tipo": "CABAÑAS",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/55.Complejo cabañas-Mercedes.jpg",
+    "images_count": 34,
+    "has_only_cover": false
+  },
+  {
+    "id": 56,
+    "slug": "56-bar-restaurante-barracas",
+    "name": "Bar-Restaurante-Barracas",
+    "tipo": "RESTAURANT - BAR -  GASTRONOMÍA",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/56.Bar-Restaurante-Barracas.jpg",
+    "images_count": 17,
+    "has_only_cover": false
+  },
+  {
+    "id": 57,
+    "slug": "57-paseo-multiespacio-lujan",
+    "name": "Paseo-Multiespacio-Luján",
+    "tipo": "ESPACIOS MULTIFUNCIONALES",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/57.Paseo-Multiespacio-Luján.jpg",
+    "images_count": 27,
+    "has_only_cover": false
+  },
+  {
+    "id": 58,
+    "slug": "58-bar-cerveceria-lujan",
+    "name": "Bar-Cervecería-Luján",
+    "tipo": "RESTAURANT",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/58.Bar-Cervecería-Luján.jpg",
+    "images_count": 13,
+    "has_only_cover": false
+  },
+  {
+    "id": 59,
+    "slug": "59-restaurante-pulperia-lujan",
+    "name": "Restaurante-Pulperia-Luján",
+    "tipo": "RESTAURANT",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/59.Restaurante-Pulperia-Luján.png",
+    "images_count": 13,
+    "has_only_cover": false
+  },
+  {
+    "id": 60,
+    "slug": "60-estancia-colonial-lujan",
+    "name": "Estancia colonial-Luján",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/60.Estancia colonial-Luján.jpg",
+    "images_count": 37,
+    "has_only_cover": false
+  },
+  {
+    "id": 61,
+    "slug": "61-casa-quinta-mercedes",
+    "name": "Casa quinta-Mercedes",
+    "tipo": "CASA DE CAMPO",
+    "region": "Provincia de Buenos Aires",
+    "cover": "MENU DE LOCACIONES /todas/61.Casa quinta-Mercedes.jpg",
+    "images_count": 35,
+    "has_only_cover": false
+  },
+  {
+    "id": 62,
+    "slug": "62-casa-en-caballito",
+    "name": "Casa en Caballito",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/62. Casa en Caballito ..jpg",
+    "images_count": 55,
+    "has_only_cover": false
+  },
+  {
+    "id": 63,
+    "slug": "63-casa-con-pileta-palermo",
+    "name": "Casa con Pileta - Palermo",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/63. Casa con Pileta - Palermo.jpg",
+    "images_count": 13,
+    "has_only_cover": false
+  },
+  {
+    "id": 64,
+    "slug": "64-bar-de-vinos-palermo",
+    "name": "Bar de vinos - Palermo",
+    "tipo": "LOCALES",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/64.Bar de vinos - Palermo.png",
+    "images_count": 6,
+    "has_only_cover": false
+  },
+  {
+    "id": 65,
+    "slug": "65-casa-devoto",
+    "name": "Casa devoto",
+    "tipo": "CASAS",
+    "region": "CABA",
+    "cover": "MENU DE LOCACIONES /todas/65. Casa devoto.jpg",
+    "images_count": 29,
+    "has_only_cover": false
+  },
+  {
+    "id": 66,
+    "slug": "66-teatro-en-caba",
+    "name": "Teatro en CABA",
+    "tipo": "TEATROS",
+    "region": "CABA",
+    "cover": null,
+    "images_count": 5,
+    "has_only_cover": false
+  }
+]

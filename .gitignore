@@ -1,0 +1,17 @@
+# Originales — no se suben (3 GB de fotos crudas, son fuente local)
+MENU DE LOCACIONES /
+MENU DE LOCACIONES  2/
+
+# Prompt interno usado para bootstrapear el proyecto
+CLAUDE_CODE_PROMPT.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Node de scripts auxiliares (si los hubiera)
+node_modules/
