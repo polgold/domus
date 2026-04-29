@@ -8,6 +8,9 @@ const nextConfig: NextConfig = {
   },
   compress: true,
   poweredByHeader: false,
+  outputFileTracingExcludes: {
+    "*": ["public/locations/**"],
+  },
 };
 
 export default nextConfig;
