@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowUpRight, MessageCircle, FileText, ShieldCheck, Wallet, Camera } from "lucide-react";
 import { catalog } from "@/data/locations";
-import { formUrl } from "@/lib/quote";
 
 export const metadata: Metadata = {
   title: "Sumá tu locación",
@@ -65,7 +64,7 @@ export default function SumatePage() {
 
           <div className="mt-9 flex flex-wrap gap-3">
             <a
-              href={formUrl()}
+              href={catalog.sumate_form}
               target="_blank"
               rel="noopener"
               className="btn-press inline-flex items-center gap-2 px-6 py-3.5 rounded-full bg-[color:var(--ink)] text-[color:var(--bg)] text-sm"
@@ -152,7 +151,7 @@ export default function SumatePage() {
           </div>
           <div className="flex flex-wrap gap-3">
             <a
-              href={formUrl()}
+              href={catalog.sumate_form}
               target="_blank"
               rel="noopener"
               className="btn-press inline-flex items-center gap-2 px-6 py-3.5 rounded-full bg-[color:var(--ink)] text-[color:var(--bg)] text-sm"

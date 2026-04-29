@@ -30,6 +30,7 @@ export type Catalog = {
   instagram: string;
   instagram_url: string;
   contact_form: string;
+  sumate_form: string;
   tagline: string;
   count: number;
   locations: Location[];
